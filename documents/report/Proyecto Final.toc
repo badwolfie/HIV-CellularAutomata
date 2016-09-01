@@ -1,0 +1,40 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{2}
+\contentsline {section}{\numberline {1.1}Modelo del aut\IeC {\'o}mata celular}{2}
+\contentsline {section}{\numberline {1.2}Variables del modelo}{3}
+\contentsline {chapter}{\numberline {2}Desarrollo}{4}
+\contentsline {section}{\numberline {2.1}Tecnolog\IeC {\'\i }as de desarrollo}{4}
+\contentsline {subsubsection}{Vala}{4}
+\contentsline {subsubsection}{GTK+}{4}
+\contentsline {section}{\numberline {2.2}Interfaz gr\IeC {\'a}fica de usuario}{4}
+\contentsline {chapter}{\numberline {3}Pruebas del modelo original}{6}
+\contentsline {section}{\numberline {3.1}Par\IeC {\'a}metros originales}{6}
+\contentsline {subsection}{\numberline {3.1.1}Simulaci\IeC {\'o}n en ejecuci\IeC {\'o}n}{6}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{7}
+\contentsline {section}{\numberline {3.2}Casos extremos}{7}
+\contentsline {subsection}{\numberline {3.2.1}Con infecci\IeC {\'o}n inicial m\IeC {\'\i }nima}{8}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{8}
+\contentsline {subsection}{\numberline {3.2.2}Con infecci\IeC {\'o}n inicial m\IeC {\'a}xima}{9}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{9}
+\contentsline {chapter}{\numberline {4}Variando la resistencia celular}{10}
+\contentsline {section}{\numberline {4.1}Menor resistencia celular}{10}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{11}
+\contentsline {section}{\numberline {4.2}Mayor resistencia celular}{11}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{12}
+\contentsline {section}{\numberline {4.3}Casos extremos}{13}
+\contentsline {subsection}{\numberline {4.3.1}Resistencia celular m\IeC {\'\i }nima}{13}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{13}
+\contentsline {subsection}{\numberline {4.3.2}Resistencia celular m\IeC {\'a}xima}{14}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{14}
+\contentsline {chapter}{\numberline {5}Variando el tiempo de respuesta inmunol\IeC {\'o}gica}{15}
+\contentsline {section}{\numberline {5.1}Menor tiempo de respuesta inmunol\IeC {\'o}gica}{15}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{16}
+\contentsline {section}{\numberline {5.2}Mayor tiempo de respuesta inmunol\IeC {\'o}gica}{16}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{17}
+\contentsline {section}{\numberline {5.3}Casos extremos}{18}
+\contentsline {subsection}{\numberline {5.3.1}Tiempo de respuesta inmunol\IeC {\'o}gica m\IeC {\'\i }nima}{18}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{18}
+\contentsline {subsection}{\numberline {5.3.2}Tiempo de respuesta inmunol\IeC {\'o}gica m\IeC {\'a}xima}{19}
+\contentsline {subsubsection}{Gr\IeC {\'a}fica de densidades}{19}
+\contentsline {chapter}{\numberline {6}Conclusi\IeC {\'o}n}{20}
+\contentsline {chapter}{\numberline {7}Referencias}{21}
